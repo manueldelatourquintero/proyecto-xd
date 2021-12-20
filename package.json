@@ -1,0 +1,23 @@
+{
+  "name": "declaracion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manueldelatourquintero/proyecto-xd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manueldelatourquintero/proyecto-xd/issues"
+  },
+  "homepage": "https://github.com/manueldelatourquintero/proyecto-xd#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
